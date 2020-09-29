@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mparupally\\Documents\\VisualStudio WorkSpace\\VisualStudio\\MVC\\MvcAdoDemo\\MvcAdoDemo.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mparupally\\Documents\\VisualStudio WorkSpace\\VisualStudio\\MVC\\MvcAdoDemo\\MvcAdoDemo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mparupally\\Documents\\VisualStudio WorkSpace\\VisualStudio\\MVC\\MvcAdoDemo\\MvcAdoDemo.csproj",
+        "projectName": "MvcAdoDemo",
+        "projectPath": "C:\\Users\\mparupally\\Documents\\VisualStudio WorkSpace\\VisualStudio\\MVC\\MvcAdoDemo\\MvcAdoDemo.csproj",
+        "packagesPath": "C:\\Users\\mparupally\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mparupally\\Documents\\VisualStudio WorkSpace\\VisualStudio\\MVC\\MvcAdoDemo\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mparupally\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
